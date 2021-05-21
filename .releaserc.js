@@ -3,7 +3,8 @@ const typesForPatch = ['docs', 'refactor', 'perf']
 
 module.exports = {
     branches: [
-        'master'
+        'master',
+        'main'
     ],
     plugins: [
         [
