@@ -34,9 +34,10 @@ module.exports = {
             '@semantic-release/git',
             {
                 assets: [
+                    'AUTHORS.md',
+                    'CHANGELOG.md',
                     'package.json',
                     'package-lock.json',
-                    'CHANGELOG.md',
                     'webtorrent.min.js',
                     'webtorrent.chromeapp.js'
                 ],
