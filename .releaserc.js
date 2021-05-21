@@ -36,7 +36,9 @@ module.exports = {
                 assets: [
                     'package.json',
                     'package-lock.json',
-                    'CHANGELOG.md'
+                    'CHANGELOG.md',
+                    'webtorrent.min.js',
+                    'webtorrent.chromeapp.js'
                 ],
                 message: 'chore(release): ${nextRelease.version} \n\n${nextRelease.notes}'
             }
