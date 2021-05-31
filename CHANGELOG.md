@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/webtorrent/semantic-release-config/compare/v1.0.3...v1.0.4) (2021-05-31)
+
+
+### Bug Fixes
+
+* allow breaking changes for major ([3a7215b](https://github.com/webtorrent/semantic-release-config/commit/3a7215bb3b46ad2a5e9cd856ce45f040560f6c4e))
+
 ## [1.0.3](https://github.com/webtorrent/semantic-release-config/compare/v1.0.2...v1.0.3) (2021-05-24)
 
 
