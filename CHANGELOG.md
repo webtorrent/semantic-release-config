@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/webtorrent/semantic-release-config/compare/v1.0.4...v1.0.5) (2021-06-04)
+
+
+### Bug Fixes
+
+* no package-lock.json ([44b9fc9](https://github.com/webtorrent/semantic-release-config/commit/44b9fc95bf42c32209f7bcc86eb4ebc856c7ddf1))
+
 ## [1.0.4](https://github.com/webtorrent/semantic-release-config/compare/v1.0.3...v1.0.4) (2021-05-31)
 
 
