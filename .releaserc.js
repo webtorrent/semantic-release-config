@@ -38,7 +38,6 @@ module.exports = {
                     'AUTHORS.md',
                     'CHANGELOG.md',
                     'package.json',
-                    'package-lock.json',
                     'webtorrent.min.js',
                     'webtorrent.chromeapp.js'
                 ],
