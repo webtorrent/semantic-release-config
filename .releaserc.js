@@ -39,7 +39,8 @@ module.exports = {
                     'CHANGELOG.md',
                     'package.json',
                     'webtorrent.min.js',
-                    'webtorrent.chromeapp.js'
+                    'webtorrent.chromeapp.js',
+                    'webtorrent.sw.js',
                 ],
                 message: 'chore(release): ${nextRelease.version} \n\n${nextRelease.notes}'
             }
