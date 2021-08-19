@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/webtorrent/semantic-release-config/compare/v1.0.5...v1.0.6) (2021-08-19)
+
+
+### Bug Fixes
+
+* add sw entry ([f200404](https://github.com/webtorrent/semantic-release-config/commit/f200404ed1f45c39ac3d314cc6cfe93e1ee229bb))
+
 ## [1.0.5](https://github.com/webtorrent/semantic-release-config/compare/v1.0.4...v1.0.5) (2021-06-04)
 
 
