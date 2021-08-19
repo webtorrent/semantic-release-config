@@ -24,7 +24,7 @@
     "@semantic-release/release-notes-generator": "^9.0.2"
   },
   "devDependencies": {
-    "semantic-release": "17.4.4"
+    "semantic-release": "17.4.5"
   },
   "renovate": {
     "extends": [
