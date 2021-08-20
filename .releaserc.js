@@ -40,7 +40,7 @@ module.exports = {
                     'package.json',
                     'webtorrent.min.js',
                     'webtorrent.chromeapp.js',
-                    'webtorrent.sw.js',
+                    'sw.min.js',
                 ],
                 message: 'chore(release): ${nextRelease.version} \n\n${nextRelease.notes}'
             }
