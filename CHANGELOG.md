@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/webtorrent/semantic-release-config/compare/v1.0.8...v1.0.9) (2023-05-07)
+
+
+### Bug Fixes
+
+* update dist paths ([4cf6076](https://github.com/webtorrent/semantic-release-config/commit/4cf60764d7c7f2f80fce86a4933e0072f252417f))
+
 ## [1.0.8](https://github.com/webtorrent/semantic-release-config/compare/v1.0.7...v1.0.8) (2022-10-09)
 
 
