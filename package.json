@@ -17,14 +17,14 @@
   "homepage": "https://github.com/webtorrent/semantic-release-config#readme",
   "dependencies": {
     "@semantic-release/changelog": "^6.0.0",
-    "@semantic-release/commit-analyzer": "^9.0.0",
+    "@semantic-release/commit-analyzer": "^10.0.0",
     "@semantic-release/git": "^10.0.0",
-    "@semantic-release/github": "^8.0.0",
-    "@semantic-release/npm": "^9.0.0",
-    "@semantic-release/release-notes-generator": "^10.0.0"
+    "@semantic-release/github": "^9.0.0",
+    "@semantic-release/npm": "^10.0.0",
+    "@semantic-release/release-notes-generator": "^11.0.0"
   },
   "devDependencies": {
-    "semantic-release": "19.0.5"
+    "semantic-release": "21.0.7"
   },
   "renovate": {
     "extends": [
