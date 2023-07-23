@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/webtorrent/semantic-release-config/compare/v1.0.9...v1.0.10) (2023-07-23)
+
+
+### Bug Fixes
+
+* **deps:** update semantic-release monorepo ([#15](https://github.com/webtorrent/semantic-release-config/issues/15)) ([017d9c8](https://github.com/webtorrent/semantic-release-config/commit/017d9c85871aef2fc51bd4b7795aca444f0adcdf))
+
 ## [1.0.9](https://github.com/webtorrent/semantic-release-config/compare/v1.0.8...v1.0.9) (2023-05-07)
 
 
