@@ -1,3 +1,13 @@
+## [1.0.11](https://github.com/webtorrent/semantic-release-config/compare/v1.0.10...v1.0.11) (2026-04-14)
+
+
+### Bug Fixes
+
+* add id-token write permission ([6aa9b6b](https://github.com/webtorrent/semantic-release-config/commit/6aa9b6b90a9415939db0fdb2724db270c0c9b86b))
+* **deps:** update semantic-release monorepo ([0db9cc6](https://github.com/webtorrent/semantic-release-config/commit/0db9cc693ca33ab08a6fb415a77e5ded16313c06))
+* **release:** Modify release.yml for permissions and Node.js version ([abfa007](https://github.com/webtorrent/semantic-release-config/commit/abfa007798e8b484014f90ebe6efe6afc2112363))
+* **release:** permissions key ([5eae2b2](https://github.com/webtorrent/semantic-release-config/commit/5eae2b21de454c2f09e94de5ea6fb35bf2ce36bc))
+
 ## [1.0.10](https://github.com/webtorrent/semantic-release-config/compare/v1.0.9...v1.0.10) (2023-07-23)
 
 
